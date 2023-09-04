@@ -1,0 +1,9 @@
+Package: com.hopeless.wechatnorecall
+Name: WeChatNoRecall
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Description: Wechat No Recall
+Maintainer: hopeless
+Author: hopeless
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

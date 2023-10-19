@@ -6,6 +6,11 @@ Also, fixed error timing on other similar tweaks.
 
 Support for iOS 15+ rootless jailbreak.
 
+## Features
+
+* Anti message recall with prompts.
+* Support English and other languages other than Chinese
+
 ## Download & install
 
 Download from https://github.com/pwnblog/WeChatNoRecall/releases
